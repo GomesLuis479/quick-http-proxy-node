@@ -1,5 +1,5 @@
 const httpProxy = require('http-proxy');
-var ip = require('ip');
+const ip = require('ip');
 
 
 // listens on local host port given by
